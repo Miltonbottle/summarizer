@@ -1,2 +1,5 @@
-# summarizer
-This project focuses on summarizing articles using transformer-based models t5-small from Hugging Face. We use the multi-news dataset, which contains multiple related news articles and corresponding human written summaries, then we compare the summarized text from the model to the summarizer present online
+# Summarization Project
+This project explores abstractive summarization using Hugging Face's transformers library and the multi-news dataset. The aim is to fine-tune or use pretrained transformer models to generate concise and coherent summaries from long news articles.
+Prepares the dataset for summarization tasks
+
+Uses the Hugging Face transformers and datasets libraries for efficient processing
