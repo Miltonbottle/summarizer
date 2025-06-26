@@ -1,4 +1,4 @@
-#  Multi-News Article Summarization using T5
+#  Article Summarization 
 
 This project demonstrates how to perform **abstractive text summarization** using Hugging Face's `T5-small` transformer model. We utilize the **Multi-News** dataset, which contains clusters of related news articles along with their human-written summaries.
 
